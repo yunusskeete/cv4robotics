@@ -1,5 +1,5 @@
 # What Computer Vision for Robotics Needs
-(A position and intent statement by [Yunus Skeete](https://github.com/yunusskeete).)
+(A position and intent statement by [Yunus Skeete](https://www.linkedin.com/in/yunus-skeete/).)
 
 In order to achieve general-purpose robotics, we cannot reply on primitive visual backbones and offload all advanced reasoning to language models alone - robotics requires much more active perception.
 We need visual AI models capable of understand:
