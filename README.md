@@ -6,6 +6,7 @@ We need visual AI models capable of understand:
 1. **what an object is**,
 1. **its size, shape and position**, and
 1. **how it relates to all other objects**,
+
 ...simply by observing the world through images and video.
 Then we can add reasoning, memory and language.
 
